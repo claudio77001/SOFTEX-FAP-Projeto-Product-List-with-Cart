@@ -47,4 +47,4 @@ Funcionalidades:
 
 ## Author
 
-- Este material de estudos é desenvolvido e mantido com ❤️ por [Catarina Guimarães](https://github.com/catarinaguima) 
+- Este material de estudos é desenvolvido e mantido por [Claudio Rodrigues](https://github.com/claudio77001) 
